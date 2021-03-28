@@ -1,7 +1,7 @@
 # excel_merge
 Combine data rows of all sheets in excel files.
 
-**1.The following three files are data samples: **
+**1.The following three files are data samples:**    
 a.xlsx   
 c.xlsx   
 d.xlsx   
